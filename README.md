@@ -1,19 +1,4 @@
-# Gitingest
 
-[![Image](./docs/frontpage.png "Gitingest main page")](https://gitingest.com)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cyclotruc/gitingest/blob/main/LICENSE)
-[![PyPI version](https://badge.fury.io/py/gitingest.svg)](https://badge.fury.io/py/gitingest)
-[![GitHub stars](https://img.shields.io/github/stars/cyclotruc/gitingest?style=social.svg)](https://github.com/cyclotruc/gitingest)
-[![Downloads](https://pepy.tech/badge/gitingest)](https://pepy.tech/project/gitingest)
-
-[![Discord](https://dcbadge.limes.pink/api/server/https://discord.com/invite/zerRaGK9EC)](https://discord.com/invite/zerRaGK9EC)
-
-Turn any Git repository into a prompt-friendly text ingest for LLMs.
-
-You can also replace `hub` with `ingest` in any GitHub URL to access the coresponding digest.
-
-[gitingest.com](https://gitingest.com) · [Chrome Extension](https://chromewebstore.google.com/detail/adfjahbijlkjfoicpjkhjicpjpjfaood) · [Firefox Add-on](https://addons.mozilla.org/firefox/addon/gitingest)
 
 ## 🚀 Features
 
