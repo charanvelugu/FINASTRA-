@@ -80,31 +80,7 @@ If you are hosting it on a domain, you can specify the allowed hostnames via env
    ```bash
    # Default: "gitingest.com, *.gitingest.com, localhost, 127.0.0.1".
    ALLOWED_HOSTS="example.com, localhost, 127.0.0.1"
-   ```
-
-## ✔️ Contributing to Gitingest
-
-### Non-technical ways to contribute
-
-- **Create an Issue**: If you find a bug or have an idea for a new feature, please [create an issue](https://github.com/cyclotruc/gitingest/issues/new) on GitHub. This will help us track and prioritize your request.
-- **Spread the Word**: If you like Gitingest, please share it with your friends, colleagues, and on social media. This will help us grow the community and make Gitingest even better.
-- **Use Gitingest**: The best feedback comes from real-world usage! If you encounter any issues or have ideas for improvement, please let us know by [creating an issue](https://github.com/cyclotruc/gitingest/issues/new) on GitHub or by reaching out to us on [Discord](https://discord.com/invite/zerRaGK9EC).
-
-### Technical ways to contribute
-
-Gitingest aims to be friendly for first time contributors, with a simple python and html codebase. If you need any help while working with the code, reach out to us on [Discord](https://discord.com/invite/zerRaGK9EC). For detailed instructions on how to make a pull request, see [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## 🛠️ Stack
-
-- [Tailwind CSS](https://tailwindcss.com) - Frontend
-- [FastAPI](https://github.com/fastapi/fastapi) - Backend framework
-- [Jinja2](https://jinja.palletsprojects.com) - HTML templating
-- [tiktoken](https://github.com/openai/tiktoken) - Token estimation
-- [apianalytics.dev](https://www.apianalytics.dev) - Simple Analytics
-
-### Looking for a JavaScript/Node package?
-
-Check out the NPM alternative 📦 Repomix: <https://github.com/yamadashy/repomix>
+ 
 
 ## Project Growth
 
